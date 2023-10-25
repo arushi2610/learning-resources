@@ -9,3 +9,11 @@ Here is a list of free web developer tools and resources that can help to build 
 * **Alternativeto.net:** 100k+ apps to find alternatives to virtually anything.
 * **StartupStash.com:** The world's largest directory of tools and resources for startups and entrepreneurs.
 * **PDFDrive.com:** Millions of eBooks for you to download for free. No ads, no download limits, and subscriptions.
+
+## Resources to learn JavaScript:
+
+* https://javascript.info/
+* https://eloquentjavascript.net/
+* https://github.com/getify/You-Dont-Know-JS
+* https://www.frontendmentor.io/
+* https://exercism.org/tracks/javascript
