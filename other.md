@@ -34,4 +34,5 @@
 | API | [RapidAPI Learn](https://rapidapi.com/learn) | https://rapidapi.com/learn |
 
 | Go | [Learn Go](https://learn-golang.org/) | https://learn-golang.org/ |
+
 | Rust | [Rust by Example](https://www.rust-lang.org/learn) | https://www.rust-lang.org/learn |
