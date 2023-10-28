@@ -10,6 +10,14 @@ Here is a list of free web developer tools and resources that can help to build 
 * **StartupStash.com:** The world's largest directory of tools and resources for startups and entrepreneurs.
 * **PDFDrive.com:** Millions of eBooks for you to download for free. No ads, no download limits, and subscriptions.
 
+## Websites to Boost Frontend Skills
+
+* [Frontend Mentor](https://frontendmentor.io)
+* [freeCodeCamp](https://freecodecamp.org)
+* [100 Days CSS](https://100dayscss.com)
+* [CodeWars](https://codewars.com)
+* [Codier](https://codier.io)
+
 ## Resources to learn JavaScript
 
 * https://javascript.info/
