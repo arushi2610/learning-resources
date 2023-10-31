@@ -1,7 +1,5 @@
 ## Resources to Learn & Practice Python
 
-Here is a list of free resources to learn & practice Python:
-
 * [FreeCodeCamp: Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course)
 * [HackerRank: Python](https://www.hackerrank.com/domains/python)
 * [Hackerearth: Python Practice Problems](https://www.hackerearth.com/practice/python/getting-started/numbers/practice-problems/)
