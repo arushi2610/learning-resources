@@ -8,7 +8,7 @@ Here is a list of free web developer tools and resources that can help to build 
 * **Slant.co:** Find the best product, app, or game for you across thousands of queries.
 * **Alternativeto.net:** 100k+ apps to find alternatives to virtually anything.
 * **StartupStash.com:** The world's largest directory of tools and resources for startups and entrepreneurs.
-* **PDFDrive.com:** Millions of eBooks for you to download for free. No ads, no download limits, and subscriptions.
+* **PDFDrive.com:** Millions of eBooks for you to download for free. There aren't any ads, or download limits, and subscriptions.
 
 ## Websites to Boost Frontend Skills
 
