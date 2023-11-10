@@ -36,3 +36,38 @@
 | Go | [Learn Go](https://learn-golang.org/) | https://learn-golang.org/ |
 
 | Rust | [Rust by Example](https://www.rust-lang.org/learn) | https://www.rust-lang.org/learn |
+
+## Common Resources to learn Coding
+
+**Learning Websites:**
+* GeeksforGeeks.org
+* SoloLearn.com
+* Programiz.com
+* InProgrammer.com
+* TutorialsPoint.com
+* FreeCodeCamp.org
+* W3Schools.com
+* StudyTonight.com
+* JavaTpoint.com
+
+**Coding Practice Platforms:**
+* HackerRank.com
+* TopCoder.com
+* CodeChef.com
+* Coderbyte.com
+* LeetCode.com
+* HackerEarth.com
+
+**Apps for Learning:**
+* SoloLearn
+* ProgrammingHub
+* Grasshopper
+* Mimo
+
+**MCQ Practice Websites:**
+* GeeksforGeeks.org
+* ExamVeda.com
+* CPPBuzz.com
+* SAFfoundry.com
+* IndiaBIX.com
+* Avatto.com
