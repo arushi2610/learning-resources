@@ -65,7 +65,6 @@
 * Mimo
 
 **MCQ Practice Websites:**
-* GeeksforGeeks.org
 * ExamVeda.com
 * CPPBuzz.com
 * SAFfoundry.com
