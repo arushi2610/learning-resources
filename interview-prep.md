@@ -1,4 +1,4 @@
-## FREE resources to prepare for your next coding interview
+## Resources to prepare for coding interview
 
 * **Hello Interview** ([link](https://hellointerview.com))
 * **LeetCode** ([link](https://leetcode.com))
