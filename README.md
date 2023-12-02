@@ -4,6 +4,8 @@ This repository contains learning resources from different mediums, so you can e
 
 If you're looking for specific technology or tool and their resources to get started, check out other files in this repository for a list of resources.
 
+Create a pull request to add the resources you'd like in this repository.
+
 ### Free Coding Resources
 
 * [Codecademy](https://www.codecademy.com/) - Interactive coding lessons.
