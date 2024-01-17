@@ -70,3 +70,7 @@
 * SAFfoundry.com
 * IndiaBIX.com
 * Avatto.com
+
+## Cloud Course by Google
+
+* [Free Cloud courses and labs by Google](https://www.cloudskillsboost.google/paths)
