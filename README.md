@@ -6,7 +6,7 @@ If you're looking for specific technology or tool and their resources to get sta
 
 Create a pull request to add the resources you'd like in this repository.
 
-This repository is being maintained by the members of Code Social Community. To join the community, click here: bio.link/codesocial
+This repository is being maintained by the members of [Code Social Community](bio.link/codesocial/). 
 
 ### Free Coding Resources
 
