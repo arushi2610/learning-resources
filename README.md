@@ -6,6 +6,8 @@ If you're looking for specific technology or tool and their resources to get sta
 
 Create a pull request to add the resources you'd like in this repository.
 
+This repository is being maintained by the members of Code Social Community. To join the community, click here: bio.link/codesocial
+
 ### Free Coding Resources
 
 * [Codecademy](https://www.codecademy.com/) - Interactive coding lessons.
@@ -24,6 +26,9 @@ Create a pull request to add the resources you'd like in this repository.
 
 Please contribute to this repository by adding more learning resources. You can add learning resources in any format, such as links to articles, videos, or tutorials. You can also add your own learning resources, such as code snippets, exercises, or projects.
 
-To contribute, please create a pull request and add your resources to the appropriate file.
+To contribute:
 
-Happy coding!
+1. Create a pull request.
+2. Add your resources to the appropriate file.
+   
+Let's keep learning together! Happy coding!
